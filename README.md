@@ -9,3 +9,15 @@
 ### Just a little $${\color{red}baby}$$ I've made =)
 
 </div>
+
+<h3>Ok. No more games.</h3>
+
+<p>This is just a little program I made to test my skills on computers manipulation, which turned out pretty great!</p>
+<br>
+<p>I loved programming all those codes, a HUGE thanks to Python, it was my dream making something like that.</p>
+<br>
+<p>
+Also, do note that this repository is private, that's because I do not want people using my code to bad purposes
+<br>
+I'm just playing with coding, no intentions to harm anyones device.
+</p>
