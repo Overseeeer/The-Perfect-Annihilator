@@ -38,24 +38,40 @@
 
 <ul>
     <li>
-        <h2><b>Special Thanks to:</b></h2>
+        <h2><b>Special Thanks</b></h2>
     </li>
 </ul>
 
 <ul>
-    <li>Python</li>
+    <li><img src="https://img.shields.io/badge/THANKS-PYTHON-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black"></li>
     <sub>For being the language that realized my dream of making a malware like this.</sub>
 </ul>
+
+<br>
+
 <ul>
-    <li>Git and GitHub</li>
+    <li>
+        <img src="https://img.shields.io/badge/THANKS-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
+        <img src="https://img.shields.io/badge/THANKS-GIT-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
+    </li>
     <sub>For allowing me to host all the codes in here, including the EXE file.</sub>
 </ul>
+
+<br>
+
 <ul>
-    <li>My teachers</li>
+    <li><img src="https://img.shields.io/badge/THANKS-TEACHERS-darkblue?style=for-the-badge&logo=undertale&logoColor=white&labelColor=black"></li>
     <sub>For introducing me into Python, a world I never thought I'd like.</sub>
 </ul>
+
+<br>
+
 <ul>
-    <li>Rato Borrachudo</li>
+    <li>
+        <a href="https://youtube.com/ratoborrachudo">
+            <img src="https://img.shields.io/badge/THANKS-RATO_BORRACHUDO-E4080A?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black">
+        </a>
+    </li>
     <sub>For all the malware showcases, that I've always liked so much, and for being an awesome Youtuber.</sub>
 </ul>
 
@@ -63,7 +79,7 @@
 
 <ul>
     <li>
-        <h2><b>DISCLAIMER</b></h2>
+        <h2><b>DISCLAIMER!</b></h2>
     </li>
 </ul>
 
