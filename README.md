@@ -4,20 +4,68 @@
 
 <hr>
 
-<div align="center">
-    
-### Just a little $${\color{red}baby}$$ I've made =)
+<ul>
+    <li>
+        <h2><b>What is this?</b></h2>
+    </li>
+</ul>
 
-</div>
+<p>This is a simple Python program that can absolutely destroy your PC. How? You may wonder.</p>
+<p>It's not that hard, let me explain:</p>
 
-<h3>Ok. No more games.</h3>
+<br>
 
-<p>This is just a little program I made to test my skills on computers manipulation, which turned out pretty great!</p>
+<ol>
+    <li>When you execute the EXE file, it asks for admin perms, if you give it the perms it needs, it proceeds to the next step.</li><br>
+    <li>It then creates two .txt files, one on the same directory, and one on the startup directory.</li><br>
+    <li>It also creates a scheduled task that gets executed on the next login, that task executes a command on the command prompt that deletes the bootmgr from your Windows.</li><br>
+    <li>Then, it opens up the same directory .txt file as a warning that the malware is running, and later, your PC turns off.</li><br>
+    <li>When it boots up again, it will open the startup .txt file, and will also execute the scheduled task, deleting your boot manager.</li><br>
+    <li>From now on, your PC won't boot again, so use it while you can, and do not forget, it was all your own choice...</li><br>
+</ol>
+
 <br>
-<p>I loved programming all those codes, a HUGE thanks to Python, it was my dream making something like that.</p>
+
+<ul>
+    <li>
+        <h2><b>How do I revert it?</b></h2>
+    </li>
+</ul>
+
+<p>If you executed the malware, then you should know that the only way to reverse it is by reinstalling Windows on your PC.</p>
+
 <br>
-<p>
-Also, do note that this repository is private, that's because I do not want people using my code to bad purposes
+
+<ul>
+    <li>
+        <h2><b>Special Thanks to:</b></h2>
+    </li>
+</ul>
+
+<ul>
+    <li>Python</li>
+    <sub>For being the language that realized my dream of making a malware like this.</sub>
+</ul>
+<ul>
+    <li>Git and GitHub</li>
+    <sub>For allowing me to host all the codes in here, including the EXE file.</sub>
+</ul>
+<ul>
+    <li>My teachers</li>
+    <sub>For introducing me into Python, a world I never thought I'd like.</sub>
+</ul>
+<ul>
+    <li>Rato Borrachudo</li>
+    <sub>For all the malware showcases, that I've always liked so much, and for being an awesome Youtuber.</sub>
+</ul>
+
 <br>
-I'm just playing with coding, no intentions to harm anyones device.
-</p>
+
+<ul>
+    <li>
+        <h2><b>DISCLAIMER</b></h2>
+    </li>
+</ul>
+
+<p>I've made this as a silly project. I do NOT intend on using this or any of my other codes for malicious purposes, much less to harm anyone.</p>
+<p>This is why this project's repository is PRIVATE and I DON'T intend on making this repository public anytime soon.</p>
