@@ -85,3 +85,6 @@
 
 <p>I've made this as a silly project. I do NOT intend on using this or any of my other codes for malicious purposes, much less to harm anyone.</p>
 <p>This is why this project's repository is PRIVATE and I DON'T intend on making this repository public anytime soon.</p>
+
+> [!IMPORTANT]
+> Yoo, just here to farm a little commit
