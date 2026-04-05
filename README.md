@@ -87,4 +87,4 @@
 <p>This is why this project's repository is PRIVATE and I DON'T intend on making this repository public anytime soon.</p>
 
 > [!IMPORTANT]
-> Yoo, just here to farm a little commit
+> Also, I'd like to note that I've learnt a lot since I've made this project, and I'm planning a really nice rewrite, but I'm still thinking about it since I've got way too many projects to work on, but let's see!
