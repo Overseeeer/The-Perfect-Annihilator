@@ -52,14 +52,7 @@ class Operacoes:
 
     def desligarPc():
         comando = 'shutdown /s /t 0'
-        diretorio = os.path.join(os.getcwd(), 'out.bat')
-
-        with open(diretorio, 'w') as file:
-            file.write(comando)
-
-        time.sleep(5)
-
-        os.system('start ' + diretorio)
+        os.system(comando)
 
     def aviso():
         root = tk.Tk()
