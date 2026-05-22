@@ -11,16 +11,16 @@
 </ul>
 
 <p>This is a simple Python program that can absolutely destroy your PC. How? You may wonder.</p>
-<p>It's not that hard, let me explain:</p>
+<p>It's not that hard, allow me to explain:</p>
 
 <br>
 
 <ol>
-    <li>When you execute the EXE file, it asks for admin perms, if you give it the perms it needs, it proceeds to the next step.</li><br>
-    <li>It then creates two .txt files, one on the same directory, and one on the startup directory.</li><br>
+    <li>When you execute the EXE file, it asks for admin perms, if you give it the perms it needs, it proceeds.</li><br>
+    <li>Then it creates two .txt files, one on project's directory, and one on the startup directory.</li><br>
     <li>It also creates a scheduled task that gets executed on the next login, this task executes a command on the command prompt that deletes the bootmgr from your Windows.</li><br>
-    <li>Then, it opens up the same directory .txt file as a warning that the malware is running, and later, your PC turns off.</li><br>
-    <li>When it boots up again, it will open the startup .txt file, and will also execute the scheduled task, deleting your boot manager.</li><br>
+    <li>Then, it opens up a .txt (the one from the project's dir) file as a warning that the malware is running, and a few seconds later, your PC turns off.</li><br>
+    <li>When it boots up again, it will open a .txt file, and will also execute the scheduled task, deleting your boot manager.</li><br>
     <li>From now on, your PC won't boot again, so use it while you can, and do not forget, it was all your own choice...</li><br>
 </ol>
 
@@ -33,6 +33,7 @@
 </ul>
 
 <p>If you executed the malware, then you should know that the only way to reverse it is by reinstalling Windows on your PC.</p>
+<sub>Or by using an external pendrive with a windows ISO to fix the boot, lol</sub>
 
 <br>
 
